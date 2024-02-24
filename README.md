@@ -11,7 +11,7 @@ Welcome to the ultimate guide for learning C programming with real-life cases! W
 Operators in C are symbols that represent computations or operations on data. They can be used to manipulate variables and produce results.
 Expressions in C are combinations of operators and operands that produce a result. They can be simple or complex, and they evaluate to a value.
 
-- [Arithmetic Operators](https://github.com/Kushalshakya/C-Programming/blob/main/OperatorsAndExpressions/ArithmeticOperator.c)
+- [Arithmetic Operators](https://github.com/Kushalshakya/C-Programming/blob/main/OperatorsAndExpressions/ArthimeticOperator.c)
 - [Bitwise Operators](https://github.com/Kushalshakya/C-Programming/blob/main/OperatorsAndExpressions/BitwiseOperator.c)
 - [Increment And Decrement Operators](https://github.com/Kushalshakya/C-Programming/blob/main/OperatorsAndExpressions/IncrementDecrementOperator.c)
 - [Logical Operators](https://github.com/Kushalshakya/C-Programming/blob/main/OperatorsAndExpressions/LogicalOperator.c)
