@@ -23,7 +23,6 @@ Expressions in C are combinations of operators and operands that produce a resul
 ## Control Statements
 Understand control statements such as if-else statements and different types of loops (for, while, do-while) to make decisions and control the flow of execution in your programs. We'll cover conditional statements, nested loops, and practical examples.
 
-<<<<<<< HEAD
 * [Menu Driven Program](https://github.com/Kushalshakya/C-Programming/blob/main/ControlStatements/MenuDrivenProgram.c)
     * [Conditional Statement](https://github.com/Kushalshakya/C-Programming/blob/main/ControlStatements/ConditionalStatement.c)
     * [Decision Making](https://github.com/Kushalshakya/C-Programming/blob/main/ControlStatements/DecisionMaking.c)
@@ -31,6 +30,3 @@ Understand control statements such as if-else statements and different types of 
 
 ## Conclusion
 By the end of this guide, you'll have a thorough understanding of C programming fundamentals and advanced concepts. Whether you're aiming to explore system programming, or pursue a career in software development, mastering C programming will open up a world of opportunities.
-=======
-By the end of this guide, you'll have a thorough understanding of C programming fundamentals and advanced concepts. Whether you're aiming to explore system programming, or pursue a career in software development, mastering C programming will open up a world of opportunities.
->>>>>>> 967dae200b4611943a52b3f21204ed8bdec2b4a4
