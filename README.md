@@ -5,6 +5,7 @@ Welcome to the ultimate guide for learning C programming with real-life cases! W
 ## Table of Contents
 
 1. [Operators and Expressions](#operators-and-expressions)
+2. [Control Statements](#control-statements)
 
 ## Operators and Expressions
 
@@ -19,6 +20,13 @@ Expressions in C are combinations of operators and operands that produce a resul
 - [Ternary Operators](https://github.com/Kushalshakya/C-Programming/blob/main/OperatorsAndExpressions/TernaryOperator.c)
 - [Unary Operators](https://github.com/Kushalshakya/C-Programming/blob/main/OperatorsAndExpressions/UnaryOperator.c)
 
-## Conclusion
+## Control Statements
+Understand control statements such as if-else statements and different types of loops (for, while, do-while) to make decisions and control the flow of execution in your programs. We'll cover conditional statements, nested loops, and practical examples.
 
+* [Menu Driven Program](https://github.com/Kushalshakya/C-Programming/blob/main/ControlStatements/MenuDrivenProgram.c)
+    * [Conditional Statement](https://github.com/Kushalshakya/C-Programming/blob/main/ControlStatements/ConditionalStatement.c)
+    * [Decision Making](https://github.com/Kushalshakya/C-Programming/blob/main/ControlStatements/DecisionMaking.c)
+
+
+## Conclusion
 By the end of this guide, you'll have a thorough understanding of C programming fundamentals and advanced concepts. Whether you're aiming to explore system programming, or pursue a career in software development, mastering C programming will open up a world of opportunities.

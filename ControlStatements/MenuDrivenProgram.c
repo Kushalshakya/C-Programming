@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<math.h>
 #include "ConditionalStatement.c"
-#include "AddExpenses.c"
+#include "DecisionMaking.c"
 extern int totalMoney;
 
 int main() {
