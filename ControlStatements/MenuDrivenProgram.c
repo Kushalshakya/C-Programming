@@ -3,12 +3,13 @@
 #include<math.h>
 #include "ConditionalStatement.c"
 #include "DecisionMaking.c"
+
 extern int totalMoney;
 
 int main() {
     int choice;
     while(1) {
-        printf("\nTotal Money You Have: %d\nSelect options:\n1.Spend Money\n2.Add Expenses\n", totalMoney);
+        printf("\nTotal Money You Have: %d\nSelect options:\n1.Spend Money\n2.Add Expenses\n3.Exit\n", totalMoney);
         scanf("%d", &choice);
         switch (choice) {
             case 1:
@@ -18,6 +19,7 @@ int main() {
                 addExpenses();
                 break;
             default:
+                printf("Byee...");
                 exit(0);
         }
     }
