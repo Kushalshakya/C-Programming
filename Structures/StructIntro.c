@@ -16,6 +16,5 @@ int main(){
     for(i=0; i<2; i++){
         printf("RollNo: %d\tName: %s\tAddress: %s\n", s[i].rollno, s[i].name, s[i].address);
     }
-
     return 0;
 }
